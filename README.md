@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pieter van Turennout</h1>
-<h3 align="center">A passionate Dutch developer</h3>
+<h3 align="center">A curious Dutch developer</h3>
 
 - 🔭 I’m currently working on **Batchelors degree**
 
