@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Batchelors degree**
 
-- 🌱 I’m currently learning **Rust, Flutter, RabbitMQ & Kubernetes**
+- 🌱 I’m currently learning **Rust, RabbitMQ & Kubernetes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
