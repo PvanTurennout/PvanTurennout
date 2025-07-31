@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **My computer science batcholer**
 
-- 🌱 I’m currently learning **Rust, NixOS, Neovim, Kubernetes**
+- 🌱 I’m currently learning **Rust, Neovim, Kubernetes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
